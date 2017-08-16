@@ -1,0 +1,7 @@
+{
+  "name": "Salesforce Drone App",
+  "description": "Drone Flight Booking built on Salesforce",
+  "env": {
+    "APP_ID": ""
+  }
+}
