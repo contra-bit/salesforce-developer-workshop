@@ -1,7 +1,5 @@
-# Salesforce Developer Workshop
+## Salesforce Advanced Developer Workshop
 
-Supporting files for the workshop.
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-Step-by-step workshop instructions are available here:
-
-[http://ccoenraets.github.io/salesforce-developer-workshop/](http://ccoenraets.github.io/salesforce-developer-workshop/)
+Supporting app for [this workshop module](http://ccoenraets.github.io/salesforce-developer-advanced/Using-the-Salesforce1-Platform-APIs.html).
