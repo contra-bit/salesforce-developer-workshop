@@ -1,5 +1,4 @@
 var apiVersion = 'v30.0',
-clientId = 'Consumer Key',
 loginUrl = 'https://login.salesforce.com/',
 redirectURI = 'http://localhost:3000/oauthcallback.html',
 proxyURL = 'http://localhost:3000/proxy/',
